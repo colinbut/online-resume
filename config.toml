@@ -178,8 +178,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
+        title = "DevOps Lead/Architect"
+        dates = "2021 - Present"
+        company = "London Stock Exchange Group"
+        [[params.experience.list.items]]
+        details = "Leading & Driving the rollout of the GitLab DevOps platform across teams"
+        [[params.experience.list.items]]
+        details = "Application modernization in cloud migration projects"
+        [[params.experience.list.items]]
+        details = "Defining DevOps best practices to solve common DevOps issues/problems"
+
+        [[params.experience.list]]
         title = "DevOps Engineer"
-        dates = "2020 - Present"
+        dates = "2020 - 2021"
         company = "Sainsbury's Digital, Tech & Data"
         [[params.experience.list.items]]
         details = "Infrastructure development using Terraform and Ansible"
