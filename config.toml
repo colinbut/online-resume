@@ -181,6 +181,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "DevOps Lead/Architect"
         dates = "2021 - Present"
         company = "London Stock Exchange Group"
+        details = "Working within the Post Trade technology division's architecture working group where i oversee DevOps capabilities across the Post Trade estate."
         [[params.experience.list.items]]
         details = "Leading & Driving the rollout of the GitLab DevOps platform across teams"
         [[params.experience.list.items]]
