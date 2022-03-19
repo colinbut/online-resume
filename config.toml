@@ -193,6 +193,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "DevOps Engineer"
         dates = "2020 - 2021"
         company = "Sainsbury's Digital, Tech & Data"
+        details = "Working within multiple different horizontal cross functional data engineering/development teams where I was mainly responsible for the DevOps activities within the Data division. I was the reference for DevOps related issues for my team."
         [[params.experience.list.items]]
         details = "Infrastructure development using Terraform and Ansible"
         [[params.experience.list.items]]
