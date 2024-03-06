@@ -48,8 +48,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "colin.but1@hotmail.co.uk"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "http://www.colinbut.com"
-        text = "www.colinbut.com"
+        url = "https://colinbut.github.io/"
+        text = "colinbut.github.io/"
 
 
 
